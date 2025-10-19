@@ -1,8 +1,4 @@
-Perfect 💪 Here’s your **final README.md** — clean, polished, and ready to **copy-paste directly** into your GitHub repository 👇
 
----
-
-````markdown
 # 🛒 Amazon Clone
 
 A fully responsive **Amazon Clone** website built using **HTML**, **CSS**, and **JavaScript**.  
@@ -51,23 +47,20 @@ This project replicates the design and core features of Amazon to demonstrate fr
 ## 📁 Folder Structure
 
 ```
-amazon-clone/
+amazon_clone_proj-main/
 │
-├── index.html           # Main page
-├── products.html        # Product listings
-├── cart.html            # Shopping cart page
-├── checkout.html        # Checkout flow
+├── html/
+│   ├── 1.html
+│   ├── navbar1.html
+│   ├── signin.html
+│   ├── navbar1.css
+│   ├── signin.css
+│   └── style.css
 │
-├── /css
-│   └── style.css        # All styles
+├── images/
 │
-├── /js
-│   └── script.js        # JavaScript logic
-│
-└── /images              # Logos, product images, etc.
-```
+└── README.md
 
----
 
 ## 🤝 Contributing
 
